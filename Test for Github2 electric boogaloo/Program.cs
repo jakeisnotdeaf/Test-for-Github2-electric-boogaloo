@@ -10,6 +10,7 @@ namespace Test_for_Github2_electric_boogaloo
 
             Console.WriteLine("What a twist");
 
+            Console.WriteLine("I want out");
         }
     }
 }
